@@ -1,6 +1,6 @@
 ## Hi, I'm Alex
 
-CS student at Boston University (Class of 2028, minor in Mathematical Statistics). Co-Founder & AI Engineer at [QA²I](https://qa2i.com), a Swiss startup building agentic AI pipelines that automate pharmaceutical GMP documentation. Previously a research assistant at ETH Zurich doing ML neural decoding, and studied computer vision at Yonsei University in Seoul. Interested in agentic systems, computer vision, and ML infrastructure.
+CS student at Boston University (Class of 2028, minor in Mathematical Statistics). Co-Founder & AI Engineer at [QA²I](https://qa2i.com), a Swiss startup building agentic AI pipelines that automate pharmaceutical GMP documentation. Previously a research assistant at ETH Zurich doing ML neural decoding, and spent a semester abroad at Yonsei University in Seoul studying computer vision. Interested in agentic systems, computer vision, and ML infrastructure.
 
 ---
 
