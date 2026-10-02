@@ -1,6 +1,6 @@
 ## Hi, I'm Alex
 
-CS student at Boston University (Class of 2028, minor in Mathematical Statistics). Co-Founder & AI Engineer at [QA²I](https://qa2i.com), a Swiss startup building agentic AI pipelines that automate pharmaceutical GMP documentation. Previously a research assistant at ETH Zurich doing ML neural decoding, and spent a semester abroad at Yonsei University in Seoul studying computer vision. Interested in agentic systems, computer vision, and ML infrastructure.
+CS student at Boston University (Class of 2028, minor in Mathematical Statistics). Co-Founder & AI Engineer at [QA²I](https://qa2i.com), a Swiss startup building agentic AI pipelines that automate pharmaceutical GMP documentation. Previously a research assistant at ETH Zurich doing ML neural decoding, and spent a semester abroad at Yonsei University in Seoul studying computer vision. Open-source contributor to [kornia](https://github.com/kornia/kornia). Interested in agentic systems, computer vision, ML infrastructure, and open source.
 
 ---
 
@@ -31,8 +31,8 @@ CS student at Boston University (Class of 2028, minor in Mathematical Statistics
 | [**Ellipsis**](https://github.com/Alexlgvcode/ellipsis) 🏆 | **Best Use of DigitalOcean, DivHacks 2026.** Real-time YOLO11 detection on 9 live NYC DOT cameras with a custom IoU tracker and lane-mask dwell rules to flag double parking, stopped vehicles and blocked intersections. **88% precision, 93% recall**, 63 s median from stop to alert. Each alert feeds a SUMO simulation that recommends a signal timing change. Live at [ellipsisnyc.tech](https://ellipsisnyc.tech). |
 | [**Neural Decoding @ ETH Zurich**](https://github.com/LoaloaF/analysisVR) | SVM decoding pipeline over 1,024-channel recordings across 8 brain regions, shipped as a module in an open-source neuroscience GUI. Added an MCP-compatible LLM agent that maps English questions to 17 plotting tools, plus a validation framework that surfaced data quality issues in 15% of trials. |
 | [**Megatron**](https://github.com/Alexlgvcode/megatron) | AI teaching assistant for a Yonsei course. RAG over course materials with ChromaDB and paragraph-aware chunking, plus a Claude intent classifier that routes questions to an auto-answer or an instructor queue. FastAPI, SQLAlchemy, React. |
+| [**kornia**](https://github.com/kornia/kornia/pulls?q=author%3AAlexlgvcode) | Contributor to kornia, the PyTorch differentiable computer vision library (11k+ ⭐). Driving the Ruff SIM (flake8-simplify) cleanup under tracker [#2445](https://github.com/kornia/kornia/issues/2445): **41 violations fixed across 8 rules**, each rule then enforced in CI. Found and fixed two test assertions that could never fail, removed 7 unreachable dispatch branches in the augmentation containers after tracing their origin through git history, and replaced unclosed file handles in crash-checkpoint scripts with context managers. |
 | **Computer Vision from Scratch** | Fine-tuned ResNet-34 to **89.6%** on a 50-class bird dataset under a 30M-parameter budget. NumPy MLP with hand-written backprop hitting 98%+ on MNIST. Panorama stitching with SVD homographies and RANSAC. |
-| [**kornia**](https://github.com/kornia/kornia/pulls?q=author%3AAlexlgvcode) | Open-source contributor to the PyTorch computer vision library. Leading the Ruff SIM (flake8-simplify) lint cleanup under tracker #2445. |
 
 ---
 
